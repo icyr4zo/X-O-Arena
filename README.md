@@ -42,3 +42,16 @@ GitHub: [@icyr4zo](https://github.com/icyr4zo)
 ---
 
 *Every move matters. Have fun!* 🎯
+## ⚠️ Windows Security Notice
+
+When downloading and running the installer, Windows may block the file because it was downloaded from the Internet.
+
+If you trust the file and have verified that it was downloaded from the official [XO Arena GitHub Releases](https://github.com/icyr4zo/X-O-Arena/releases/latest), follow these steps:
+
+1. Right-click `X-O-Arena-1.0.0.Setup.exe`.
+2. Select **Properties**.
+3. Under the **General** tab, look for the **Unblock** checkbox.
+4. If the option is available, check **Unblock**, then click **Apply** and **OK**.
+5. Run the installer again.
+
+**Note:** Only unblock files downloaded from a source you trust. Do not disable Windows Defender or other security protections.
